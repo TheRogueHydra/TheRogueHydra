@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, Python, Javascript, Go, Rust and Web development.
 - 🌱 I’m currently learning Java, Python and Javascript.
 - 💞️ I’m looking to collaborate on web apps and game development.
-- 📫 Reach me at maheshan.peiris@gmail.com.
+- 📫 Reach me at maheshanpeiris@gmail.com.
 
 <!---
 TheRogueHydra/TheRogueHydra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
