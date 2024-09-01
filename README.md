@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheRogueHydra, and I'm a high school student at Horizon College International.
+- 👋 Hi, I’m @TheRogueHydra, and I'm a first-year at Universal College Lanka, where I'm doing the Monash University pathway program.
 - 👀 I’m interested in Java, Python, Javascript, Go, Rust and Web development.
 - 🌱 I’m currently learning Java, Python and Javascript.
 - 💞️ I’m looking to collaborate on web apps and game development.
